@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : ecritureFichier.cpp
+// Name        : gaetmin.cpp
 // Author      : yves Mercadier
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Ecriture dans un fichier C++, Ansi-style
+// Description : générateur aléatoire à partir d'une horloge Ansi-style
 //============================================================================
 #include <iostream>
 #include <string>
@@ -61,6 +61,4 @@ int main()
 	}
     cout << endl;
     cout << "Fin du programme."<< endl;
-    
- 
 }
