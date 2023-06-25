@@ -16,3 +16,6 @@ Since the Pentium III and 4, Intel integrates with all chipsets i8xx family (i81
 The advantage of this system lies in its cost, especially in speed of about 75 kbits / sec.
 
 When needs some random bits, may be used the least significant bit of any timer. It is gaetmin.
+
+
+https://www.amazon.fr/ABcédaire-Amoureux-lIntelligence-Artificielle-Mercadier/dp/B0C872FTS3
